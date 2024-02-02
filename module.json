@@ -1,0 +1,67 @@
+{
+  "id": "shadowdark-homebrew",
+  "title": "Shadowdark Homebrew",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowdark",
+        "type": "system"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "shadowdark"
+    },
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "system": "shadowdark"
+    },
+    {
+      "name": "monsters",
+      "label": "Monsters",
+      "path": "packs/monsters",
+      "type": "Actor",
+      "system": "shadowdark"
+    },
+    {
+      "name": "roll-tables",
+      "label": "Roll Tables",
+      "path": "packs/roll-tables",
+      "type": "RollTable",
+      "system": "shadowdark"
+    }
+  ],
+  "packFolders": [
+		{
+			"name": "Shadowdark Homebrew",
+			"sorting": "a",
+            "color": "#29192f",
+			"packs": [
+				"journals",
+				"items",
+				"monsters",
+				"roll-tables"
+			]
+		}
+	],
+	"flags": {
+		"shadowdark": {
+			"sources": {
+				"shadowdark_homebrew": "Shadowdark Homebrew"
+			}
+		}
+	}
+}
