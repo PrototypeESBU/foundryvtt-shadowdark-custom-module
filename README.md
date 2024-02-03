@@ -1,1 +1,0 @@
-# foundryvtt-shadowdark-custom-module
