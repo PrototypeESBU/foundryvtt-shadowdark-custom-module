@@ -1,10 +1,10 @@
 {
   "id": "shadowdark-homebrew",
   "title": "Shadowdark Homebrew",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "relationships": {
     "systems": [
@@ -38,6 +38,17 @@
       }
     },
     {
+        "name": "macros",
+        "label": "Macros",
+        "path": "packs/macros",
+        "type": "Macro",
+        "system": "shadowdark",
+        "ownership": {
+          "ASSISTANT": "OWNER",
+          "PLAYER": "OBSERVER"
+        }
+      },
+    {
       "name": "monsters",
       "label": "Monsters",
       "path": "packs/monsters",
@@ -68,6 +79,7 @@
 			"packs": [
 				"journals",
 				"items",
+                "macros",
 				"monsters",
 				"roll-tables"
 			]
@@ -76,11 +88,12 @@
 	"flags": {
 		"shadowdark": {
 			"sources": {
-				"shadowdark_homebrew": "Shadowdark Homebrew"
+				"shadowdark_homebrew": "Homebrew",
+                "shadowdark_homebrew_hidden": "Homebrew (Hidden)"
 			}
 		},
-        "shadowdark-art-template": {
+        "shadowdark-homebrew": {
             "shadowdark-art": "modules/shadowdark-homebrew/artwork/artwork-mapping.json"
-          }
+        }
 	}
 }
