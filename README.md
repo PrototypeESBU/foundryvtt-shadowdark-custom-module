@@ -1,7 +1,7 @@
 # Shadowdark RPG Homebrew Module Template
 A Foundry VTT homebrew module template for use with Shadowdark RPG
 
-# How to Install
+## How to Install
 Download the latest template [here](https://github.com/PrototypeESBU/foundryvtt-shadowdark-custom-module/releases/latest/download/shadowdark-homebrew.zip)
 ### Installing on local Foundry server
 1. Unzip file to Data\modules\ inside your Foundry VTT user data folder. Directory path should look like this: "Data\modules\shadowdark-homebrew"
@@ -14,3 +14,4 @@ Download the latest template [here](https://github.com/PrototypeESBU/foundryvtt-
 4. Click Analyze
 
 ## Macro Scripts
+- [Homebrew Compendium Import](scripts/homebrew_import.js)
