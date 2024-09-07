@@ -783,10 +783,10 @@
         },
         "99s2guSyYKPWp1oy": {
             "__MONSTER_NAME__": "Dung Beetle, Giant",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/dung-beetle giant.webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/dung-beetle-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/dung-beetle giant.webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/dung-beetle-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -805,10 +805,10 @@
         },
         "adojju5DJl1iWEg4": {
             "__MONSTER_NAME__": "Elemental, Air (Greater)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-air (greater).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-air-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-air (greater).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-air-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -816,10 +816,10 @@
         },
         "XEFAKSOcCUd8G89y": {
             "__MONSTER_NAME__": "Elemental, Air (Lesser)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-air (lesser).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-air-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-air (lesser).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-air-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -827,10 +827,10 @@
         },
         "w14e0EzbGfvjkbes": {
             "__MONSTER_NAME__": "Elemental, Earth (Greater)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-earth (greater).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-earth-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-earth (greater).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-earth-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -838,10 +838,10 @@
         },
         "Puc0P5lO6IphdIQP": {
             "__MONSTER_NAME__": "Elemental, Earth (Lesser)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-earth (lesser).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-earth-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-earth (lesser).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-earth-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -849,10 +849,10 @@
         },
         "V1wcRoUEnIbaNjXN": {
             "__MONSTER_NAME__": "Elemental, Fire (Greater)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-fire (greater).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-fire-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-fire (greater).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-fire-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -860,10 +860,10 @@
         },
         "vylW8UYkC5i9wAS7": {
             "__MONSTER_NAME__": "Elemental, Fire (Lesser)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-fire (lesser).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-fire-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-fire (lesser).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-fire-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -871,10 +871,10 @@
         },
         "Fb4nfQoOqplwmGHe": {
             "__MONSTER_NAME__": "Elemental, Water (Greater)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-water (greater).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-water-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-water (greater).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-water-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -882,10 +882,10 @@
         },
         "ZP1OsAWwqVppLts0": {
             "__MONSTER_NAME__": "Elemental, Water (Lesser)",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-water (lesser).webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/elemental-water-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-water (lesser).webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/elemental-water-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1531,10 +1531,10 @@
         },
         "QhFsevIc23TsTHZE": {
             "__MONSTER_NAME__": "Manta Ray, Giant",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/manta-ray giant.webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/manta-ray-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/manta-ray giant.webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/manta-ray-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1619,10 +1619,10 @@
         },
         "DP8n8iIiU1Qostjv": {
             "__MONSTER_NAME__": "Mordanticus The Flayed",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/mordanticus-the flayed.webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/mordanticus-the-flayed.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/mordanticus-the flayed.webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/mordanticus-the-flayed.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1685,10 +1685,10 @@
         },
         "6ce2xr1QmjJFMe5P": {
             "__MONSTER_NAME__": "Obe-ixx Of Azarumme",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/obe-ixx-of azarumme.webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/obe-ixx-of-azarumme.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/obe-ixx-of azarumme.webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/obe-ixx-of-azarumme.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2323,10 +2323,10 @@
         },
         "hiZvVJPOJWtOXV4m": {
             "__MONSTER_NAME__": "The Ten-eyed Oracle",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/the-ten-eyed oracle.webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/the-ten-eyed-oracle.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/the-ten-eyed oracle.webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/the-ten-eyed-oracle.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2334,10 +2334,10 @@
         },
         "DbkmPt2k9fw5zxJw": {
             "__MONSTER_NAME__": "The Wandering Merchant",
-            "actor": "modules/shadowdark-homebrew/artwork/portraits/the-wandering merchant.webp",
+            "actor": "modules/shadowdark-homebrew/artwork/portraits/the-wandering-merchant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-homebrew/artwork/tokens/the-wandering merchant.webp",
+                    "src": "modules/shadowdark-homebrew/artwork/tokens/the-wandering-merchant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }

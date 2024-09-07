@@ -1,0 +1,12 @@
+Place artwork for monster portraits in this directory. 
+Files must be .webp 
+Use the monster name in all lower case with adjectives at the end
+Drop commas and replace spaces with - 
+
+e.g.
+aboleth.webp
+centipede-giant.webp
+bear-brown.webp
+dung-beetle-giant.webp
+elemental-air-greater.webp
+will-o'-wisp.webp
