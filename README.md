@@ -15,3 +15,22 @@ Download the latest template [here](https://github.com/PrototypeESBU/foundryvtt-
 
 ## Macro Scripts
 - [Homebrew Compendium Import](scripts/homebrew_import.js)
+
+## Monster Artwork Remapping
+An optional version of the shadowdark-homebrew modules is available [here](https://github.com/PrototypeESBU/foundryvtt-shadowdark-custom-module/releases/latest/download/shadowdark-homebrew.with.monster.remap.zip)
+This version will remap all the monster artwork in the default monster compendium to .webp files you provide the appropriate module directories.
+Place portrait artwork file in `shadowdark-homebrew/artwork/portraits`
+Place token artwork file in `shadowdark-homebrew/artwork/tokens`
+- Files must be .webp 
+- Use the monster name in all lower case with adjectives at the end
+- Drop commas and replace spaces with - 
+
+e.g.
+aboleth.webp
+centipede-giant.webp
+bear-brown.webp
+dung-beetle-giant.webp
+elemental-air-greater.webp
+will-o'-wisp.webp
+
+Note: You can disable this mapping for portraits and/or tokens under **Configure Art** in the shadowdark system settings
