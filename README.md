@@ -1,3 +1,4 @@
+<a href="https://www.buymeacoffee.com/prototypeESBU" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;" ></a>
 # Shadowdark RPG Homebrew Module Template
 A Foundry VTT homebrew module template for use with Shadowdark RPG
 
